@@ -1,2 +1,1 @@
-# some-algorithms
-Some algorithms from «Grokking Algorithms» book, implementing in JS
+Some algorithms from «Grokking Algorithms» book by Aditya Y. Bhargava. Implementing in JS
