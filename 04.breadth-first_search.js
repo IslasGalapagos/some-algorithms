@@ -1,7 +1,7 @@
 // ⏳  O(V + E)
 
 /*
-  for stracture like this:
+  for structure like this:
   [
     {
       payload: …,
